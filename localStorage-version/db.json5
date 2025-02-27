@@ -1,0 +1,7 @@
+{
+  posts: [
+    { text: 'Buy groceries', completed: false, deadline: '2025-02-24T10:00' },
+    { text: 'Go to gym', completed: true, deadline: '2025-02-25T18:30' },
+    { text: 'Sex', completed: false, deadline: null },
+],
+}
