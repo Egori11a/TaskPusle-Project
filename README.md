@@ -41,3 +41,4 @@
    npx json-server db.json5
    ```
 8. Готово!
+![image-ill](https://github.com/user-attachments/assets/3b86e631-2d0f-4326-aaa9-ea88fdf86f2c)
