@@ -38,5 +38,6 @@
 6. В файле **db.json5"** хранятся данные об имеющихся задачах. Это аналог базы данных.
 7. Запускаем сервер и открываем index.html в liveServer.
    ```sh
-  npx json-server db.json5
+   npm i json-server db.json5
    ```
+8. Готово!
