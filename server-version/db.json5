@@ -1,0 +1,25 @@
+{
+  posts: [
+    {
+      id: 'c09e',
+      text: 'Приготовить яичницу другу',
+      completed: false,
+      deadline: '2030-02-28T13:47',
+      notified: false,
+    },
+    {
+      id: '4f82',
+      text: 'Стать суперменом',
+      completed: false,
+      deadline: null,
+      notified: false,
+    },
+    {
+      id: '38ce',
+      text: 'Закончить вуз арбуз',
+      completed: true,
+      deadline: null,
+      notified: false,
+    },
+  ],
+}
