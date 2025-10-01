@@ -1,5 +1,5 @@
 # 📝 TaskPusle-Project
-Мой первый масштабный самостоятельный проект на ванильном JS, в котором я применил и отточил такие навыки как: HTML DOM API, Async/Await, REST API, LocalStorage/ServerStorage, FormValidation, Event/Error Handling, Notification API, Data Entries Display, CSS Manipulations, Task Intervals, EventLoop.
+Проект на ванильном JS, в котором я применил и отточил такие навыки как: HTML DOM API, Async/Await, REST API, LocalStorage/ServerStorage, FormValidation, Event/Error Handling, Notification API, Data Entries Display, CSS Manipulations, Task Intervals, EventLoop.
 
 Этот проект представляет собой расширенный функционал трекера задач.
 
